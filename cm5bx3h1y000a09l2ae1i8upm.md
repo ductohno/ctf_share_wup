@@ -3,6 +3,7 @@ title: "HTB University 2024: Binary badlands"
 datePublished: Tue Dec 31 2024 03:36:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm5bx3h1y000a09l2ae1i8upm
 slug: htb-university-2024-binary-badlands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735624271802/b853b4ac-39f5-4609-ba42-92188ccc309a.png
 
 ---
 
